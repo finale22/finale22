@@ -2,11 +2,11 @@
 
 <strong>Hi there!👋👋 Thank you for coming!😌😌</strong>
 <br><br>
-<strong>&nbsp;&nbsp;&nbsp;&nbsp;🤭My blog🤭</strong>
-<br>
+<strong>🤭My blog🤭 ➡️</strong>
 <a href="https://velog.io/@youarethewon">
   <img src="https://velog-readme-stats.vercel.app/api/badge?name=youarethewon"/>
 </a>
+⬅️
 <br>
 <h1><strong>Interests</strong></h1>
   <span>
@@ -95,7 +95,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finale22&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&include_all_commits=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=finale22&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&include_all_commits=true&count_private=true" width=56% />
+<img src="https://github-readme-stats.vercel.app/api?username=finale22&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&include_all_commits=true" width=56% />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=finale22&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 
