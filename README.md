@@ -50,7 +50,7 @@
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Department of Business Administration&nbsp;/&nbsp;Department of Computer Engineering</p>
     <p><strong>📘KT Aivle School, KT</strong> (Aug. 2023 ~ Jan. 2024)</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data, AI, Web</p>
-    <p><strong>📕Big Leader Ai Academy, Korea Data Agency</strong> (Jun. 2022 ~ Aug. 2024)</p>
+    <p><strong>📕Big Leader Ai Academy, Korea Data Agency</strong> (Jun. 2022 ~ Aug. 2022)</p>
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data, AI</p>
   </span>
 <br>
