@@ -56,23 +56,23 @@
 <br>
 <h1><strong>Awards</strong></h1>
   <span>
-    <p><strong>🥇2022 north-eastern open data challenge, grand prize</strong> (2022 동북권 공공데이터 활용 챌린지, 최우수상)</p>
-    <p><strong>🏅KOREA TOURISM ORGANIZATION, award certificate</strong> (한국관광공사, 표창장)</p>
-    <p><strong>🥈2022 KTO data lab contest, excellence award</strong> (2022 한국 관광 데이터 랩 우수 활용 사례 공모전, 우수상)</p>
+    <p><strong>🥇First prize, 2022 north-eastern open data challenge</strong> (2022 동북권 공공데이터 활용 챌린지, 최우수상)</p>
+    <p><strong>🏅Award certificate, KOREA TOURISM ORGANIZATION</strong> (한국관광공사, 표창장)</p>
+    <p><strong>🥈Second prize, 2022 KTO data lab contest</strong> (2022 한국 관광 데이터 랩 우수 활용 사례 공모전, 우수상)</p>
   </span>
 <br>
 <h1><strong>Projects</strong></h1>
   <span>
-    <p><strong><i>&bull; 관광부상지역 모니터링 시스템 / 빅리더 AI 아카데미[한국관광공사 협업프로젝트] (2022.07-2022.10)</i></strong></p>
-    <!--<p>&nbsp;&nbsp;&nbsp;텍스트 데이터 구축 및 전처리, 텍스트 빈도 분석</p>-->
-    <p><strong><i>&bull; 맞춤형 복지 정책 플랫폼 / 2022 동북권 공공데이터 활용 챌린지[과학기술정보통신부] (2022.09-2022.10)</i></strong></p>
-    <!--<p>&nbsp;&nbsp;&nbsp;텍스트 데이터 수집 및 전처리, 유사도 분석</p>-->
-    <p><strong><i>&bull; 지방 소멸 방지를 위한 임무 중심 소도시 여행 서비스 / 2023 K-디지털 트레이닝 해커톤[고용노동부] (2023.09-2023.10)</i></strong></p>
-    <!--<p>&nbsp;&nbsp;&nbsp;이미지 데이터 수집 및 전처리, 이미지 분류 모델</p>-->
-    <p><strong><i>&bull; GAN 기반 컬러화 포토샵 앱 / 졸업 작품[영남대학교] (2023.09-2023.11)</i></strong></p>
-    <!--<p>&nbsp;&nbsp;&nbsp;GAN 모델링, 모델 서빙</p>-->
-    <p><strong><i>&bull; 발표력을 높이는 Good PT / KT 에이블스쿨 빅프로젝트[KT] (2023.12-2024.01)</i></strong></p>
-    <!--<p>&nbsp;&nbsp;&nbsp;STT, TTS, 음성 분석, GPT API, 프롬프트 엔지니어링</p>-->
+    <p> <strong><i>&bull; Monitoring system for areas to emerge as tourist areas, Big leader AI academy & Korea Tourism Organization, Korea (Jul. 2022 ~ Oct. 2022)</i></strong></p>
+    <!--<p>&nbsp;&nbsp;&nbsp;/ Text data collection & Text frequency analysis</p>-->
+    <p><strong><i>&bull; Customized welfare policy recommendation platform, Ministry of Science and ICT & National IT Industry Promotion Agency, Korea (Sep. 2022 ~ Oct. 2022) </i></strong></p>
+    <!--<p>&nbsp;&nbsp;&nbsp; / Text data collection & Similarity analysis</p>-->
+    <p><strong><i>&bull; Mission focused small town travel service to prevent local extinction, Ministry of Employment and Labor, Korea (Sep. 2023 ~ Oct. 2023) </i></strong></p>
+    <!--<p>&nbsp;&nbsp;&nbsp; / Image data collection & Image classification model</p>-->
+    <p><strong><i>&bull; GAN-based colorization app, Yeungnam University, Korea (Sep. 2023 ~ Nov. 2023) </i></strong></p>
+    <!--<p>&nbsp;&nbsp;&nbsp;/ Image-to-image translation </p>-->
+    <p><strong><i>&bull; Online presentation analysis platform, KT AIVLE School, Korea (Dec. 2023 ~ Jan. 2024) </i></strong></p>
+    <!--<p>&nbsp;&nbsp;&nbsp;/ STT & TTS & Speech analysis & Prompt engineering & DB</p>-->
   </span>
 <br>
 <h1><strong>News</strong></h1>
