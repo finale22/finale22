@@ -89,6 +89,14 @@
   <img src="https://velog-readme-stats.vercel.app/api?name=youarethewon&color=red"/>
 </a>
 <br><br>
+<h1>Badges</h1>
+<a href="https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/UlJHL1o3VElwaXY1ZDZxVHVnSnFHUT09">
+    <img src="https://velog.velcdn.com/images/youarethewon/post/27085bdb-4ccf-4be0-95c8-697ca490fc5f/image.png" width=15%/>
+</a>
+<a href="https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/TENBM0pWRDYzLzBxMzUra2xtR3hzdz09">
+    <img src="https://velog.velcdn.com/images/youarethewon/post/659b43bb-dd69-4e8b-b777-5289f921c132/image.png" width=15%/>
+</a>
+<br><br>
 <h1><strong>Git Stats</strong></h1>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
