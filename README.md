@@ -3,6 +3,7 @@
 <strong>Hi there!👋👋 Thank you for coming!😌😌</strong>
 <br>
 <br>
+<!--
 <h1><strong>🚀Interests</strong></h1>
   <span>
     <p><strong><i>&bull; NLP</i></strong></p>
@@ -12,6 +13,7 @@
     <p><strong><i>&bull; Language Generation</i></strong></p>
   </span>
 <br>
+-->
 <h1><strong>💪Skills</strong></h1>
   <span>
     <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
