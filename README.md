@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff65d4,10:ff6fff,30:5dd5c9,50:91c5cc,70:00bfff,90:6666cc,100:3f00ff&height=200&section=header&text=Welcome%20to%20Seongwon's%20room!%20🥳&fontSize=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff65d4,10:ff6fff,30:5dd5c9,50:91c5cc,70:00bfff,90:6666cc,100:3f00ff&height=200&section=header&text=Welcome!🥳&fontSize=50&animation=twinkling" width="100%"/>
 
 <strong>Hi there!👋👋 Thank you for coming!😌😌</strong>
 <br>
